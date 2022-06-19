@@ -10,7 +10,7 @@
   "description": "Server ecom",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon node server.js"
+    "start": "node server.js"
   },
   "keywords": [
     "ecom"
