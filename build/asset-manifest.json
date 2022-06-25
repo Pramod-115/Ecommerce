@@ -1,29 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7739bc8.css",
-    "main.js": "/static/js/main.13a3e974.js",
+    "main.css": "/static/css/main.fb4ecb52.css",
+    "main.js": "/static/js/main.59cfc250.js",
+    "static/media/procpic(4).jpg": "/static/media/procpic(4).3d508b304d81be994027.jpg",
+    "static/media/procpic(2).jpg": "/static/media/procpic(2).1fafe8d3512344749c8c.jpg",
     "static/media/awareness.jpg": "/static/media/awareness.802b9df764a6ac7de32a.jpg",
     "static/media/banner-1.jpg": "/static/media/banner-1.9574ca8da3be99f44cfd.jpg",
     "static/media/banner3.jpg": "/static/media/banner3.dbfa309bafc73708074c.jpg",
     "static/media/banner1.jpg": "/static/media/banner1.3b15e29e8db1dfc4d004.jpg",
     "static/media/banner-2.jpg": "/static/media/banner-2.34a0032e2131f8d03bf3.jpg",
     "static/media/banner2.jpg": "/static/media/banner2.6487c8c4e6000c365d56.jpg",
+    "static/media/procpic(1).jpg": "/static/media/procpic(1).cac74d71eeec74c8221b.jpg",
+    "static/media/procpic(3).jpg": "/static/media/procpic(3).5126682943a8d7a8c15e.jpg",
     "static/media/special-offer.png": "/static/media/special-offer.c5581652d9f59526b654.png",
+    "static/media/coupon.png": "/static/media/coupon.7c16d7f38907a5051dcf.png",
+    "static/media/playstore.png": "/static/media/playstore.7f381fffd4065a0d7b6e.png",
     "static/media/bacola-logo-full.png": "/static/media/bacola-logo-full.4200204369a39987d39b.png",
+    "static/media/appstore.png": "/static/media/appstore.adb3b0acf039e67f637d.png",
     "static/media/icon1.svg": "/static/media/icon1.ce9723376ca18f109e0cf173502c2d56.svg",
     "static/media/secure.svg": "/static/media/secure.2acd6c83c8298f72dad7579503db2389.svg",
     "static/media/dress-svgrepo-com.svg": "/static/media/dress-svgrepo-com.69e282a30718ffc6a47706214ef4c7f4.svg",
     "static/media/two-rings-svgrepo-com.svg": "/static/media/two-rings-svgrepo-com.aa82b89df023542460ea6f9f500763c7.svg",
     "static/media/icon2.svg": "/static/media/icon2.4f3427b25e4d723edb2e28c7f22ec279.svg",
+    "static/media/customer.svg": "/static/media/customer.5e26a9143c272d02111213a2a22dcbd2.svg",
+    "static/media/phone.svg": "/static/media/phone.b8bfb1f7c217443eaf48c82f193b4d30.svg",
+    "static/media/price.svg": "/static/media/price.1ed7e982f9783c4272cd0f52a331222b.svg",
+    "static/media/money.svg": "/static/media/money.d5f921222d857ef703e4fcba2e116594.svg",
     "static/media/icon3.svg": "/static/media/icon3.277625b200e33bc69f98bc4246601f38.svg",
+    "static/media/discount.svg": "/static/media/discount.29dea2e1f68e966e826bef9a2c93367f.svg",
     "static/media/laptop-svgrepo-com.svg": "/static/media/laptop-svgrepo-com.56415922962b882c94ca5da02f900c8c.svg",
     "static/media/clothes-svgrepo-com.svg": "/static/media/clothes-svgrepo-com.a89d5f8093364bf43ccb446ac29fc72f.svg",
+    "static/media/shipping.svg": "/static/media/shipping.47dd4d61bfde16b2e79bc056ed23c8f2.svg",
     "index.html": "/index.html",
-    "main.b7739bc8.css.map": "/static/css/main.b7739bc8.css.map",
-    "main.13a3e974.js.map": "/static/js/main.13a3e974.js.map"
+    "main.fb4ecb52.css.map": "/static/css/main.fb4ecb52.css.map",
+    "main.59cfc250.js.map": "/static/js/main.59cfc250.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7739bc8.css",
-    "static/js/main.13a3e974.js"
+    "static/css/main.fb4ecb52.css",
+    "static/js/main.59cfc250.js"
   ]
 }
